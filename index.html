@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scalable Form Platform</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="description" content="Description">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+    <style>
+        .app-nav ul {
+            display: flex;
+            align-items: center;
+        }
+
+        .app-nav img {
+            max-width: 30px;
+        }
+
+        table th:nth-child(2) {
+            width: 100px;
+        }
+
+        table th:nth-child(3) {
+            width: 120px;
+        }
+
+        .td-desc {
+            min-width: 350px;
+        }
+    </style>
+</head>
+<body>
+<div id="app"></div>
+<script>
+  window.$docsify = {
+    homepage: 'zh/介绍.md',
+    name: 'Tea Note',
+    repo: '',
+    loadSidebar: true,
+    subMaxLevel: 0,
+    loadNavbar: true,
+    coverpage: false,
+    onlyCover: false,
+  }
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-javascript.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+</body>
+</html>
