@@ -1,4 +1,4 @@
-# Tea Note
+# About
 
 Tea Note is a note taking app with wiki
 
