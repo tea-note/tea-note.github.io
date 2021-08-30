@@ -1,5 +1,9 @@
 # 🗂 抽认卡
 
+## 视频教程
+
+<iframe style="min-height: 450px" src="//player.bilibili.com/player.html?aid=335208210&bvid=BV1SA411c73X&cid=399716189&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 > 抽认卡又称闪卡（英文：Flash Card）、字卡，是一小块纸片，用来帮助记忆知识点。
 
 使用抽认卡的目的主要是帮助记忆， 你在每个卡片上写下一个问题，同时在背面记下答案，用它们来测试自己，并根据你的测试、学习结果把它们进行排序、分组，这种策略使得学习更有选择性，也就是：在一组的卡片越难，你就越要花时间复习这一组。于是，你就能节省很多学习时间。
