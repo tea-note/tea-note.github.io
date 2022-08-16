@@ -1,5 +1,5 @@
 - [Tea Note](content/index.md)
 - [Privacy Policy](content/privacy.md)
-- [Terms and Conditions](content/terms.md)
+- [Terms of Use](content/terms.md)
 - [Changelog](content/Changelog.md)
 - [About](content/about.md)

@@ -1,8 +1,8 @@
-# Terms and Conditions ("Terms")
+# Terms of Use ("Terms")
 
 Last updated: Jan 1, 2021
 
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Anki Note application (the "Service") operated by Shun Lyu (吕舜). ("us", "we", or "our").
+Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the Anki Note application (the "Service") operated by Shun Lyu (吕舜). ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 

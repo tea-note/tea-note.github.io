@@ -12,6 +12,6 @@
   * [🏷 使用抽认卡](zh/index.md "🏷 使用标签")
 * 关于Tea Note
   * [Privacy Policy](content/privacy.md)
-  * [Terms and Conditions](content/terms.md)
+  * [Terms of Use](content/terms.md)
   * [Changelog](content/Changelog.md)
   * [About](content/about.md)
